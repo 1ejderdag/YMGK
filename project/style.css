@@ -178,4 +178,25 @@ p {
 .card-button:hover {
     background: #fff;
     transform: scale(1.05);
+}
+
+.hero-image {
+    max-width: 600px;
+    width: 80%;
+    height: auto;
+    margin: 1rem auto;
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);
+    object-fit: contain;
+}
+
+section#anasayfa {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 4rem 2rem;
+    gap: 1rem;
 } 
