@@ -85,4 +85,21 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-}); 
+});
+
+// Modal fonksiyonları
+function openQRModal() {
+    document.getElementById('qrModal').style.display = 'block';
+}
+
+function closeQRModal() {
+    document.getElementById('qrModal').style.display = 'none';
+}
+
+// Modal dışına tıklandığında kapatma
+window.onclick = function(event) {
+    const modal = document.getElementById('qrModal');
+    if (event.target == modal) {
+        modal.style.display = 'none';
+    }
+} 
