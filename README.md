@@ -20,7 +20,7 @@ Web sitesi özellikleri:
 Overly uygulaması ile proje kart görselini taratarak oyunu inceleyebilirsiniz. 
 OverlyApp'i [buradan](https://play.google.com/store/apps/details?id=com.Overly.Cloud) indirebilirsiniz.
 
-![Hazine Paylaşımı](./images/hazine-paylasimi.jpg)
+![Hazine Paylaşımı](project/images/hazine-paylasimi.jpg)
 
 ## Unity APK
 1. Projenin web sitesine gidiniz. 
@@ -107,13 +107,13 @@ Proje geliştirme sürecini [Trello](https://trello.com/b/2hH7F0F6/ymgk) üzerin
 ### Overly App
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="./images/overly-1.jpg" alt="Overly Ekran Görüntüsü 1" width="400"/>
-    <img src="./images/overly-2.jpg" alt="Overly Ekran Görüntüsü 2" width="400"/>
+    <img src="project/images/overly-1.jpg" alt="Overly Ekran Görüntüsü 1" width="400"/>
+    <img src="project/images/overly-2.jpg" alt="Overly Ekran Görüntüsü 2" width="400"/>
 </div>
 
 ### APK
 
-<img src="./images/apk-screenshot.jpg" alt="APK Ekran Görüntüsü" width="400"/>
+<img src="project/images/apk-screenshot.jpg" alt="APK Ekran Görüntüsü" width="400"/>
 
 ## 👨‍💻 Geliştirici
 
